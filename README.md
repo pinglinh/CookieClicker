@@ -6,6 +6,10 @@ times user has clicked the image and changes to a different image on each click.
 
 ### Preview
 
-![0](photos/0.png)
-![1](photos/1.png)
-![2](photos/2.png)
+<img src="photos/0.png" width="500" height="700"/>
+<br>
+<br>
+<img src="photos/1.png" width="500" height="700"/>
+<br>
+<br>
+<img src="photos/2.png" width="500" height="700"/>
